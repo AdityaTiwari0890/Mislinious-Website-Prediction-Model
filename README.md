@@ -6,7 +6,8 @@
 
 A **production-grade malicious URL detection system** that combines advanced machine learning with real-time threat intelligence APIs. Built with a 6-layer security pipeline inspired by industry solutions like VirusTotal and Google Safe Browsing.
 
-![System Overview](https://via.placeholder.com/800x400/1f77b4/ffffff?text=Malicious+URL+Detection+System)
+![System Overview](<img width="372" height="850" alt="image" src="https://github.com/user-attachments/assets/6b657a9c-d615-4cd1-b877-935f6dde0bc6" />)
+
 
 ## 🚀 Quick Start
 
@@ -342,16 +343,22 @@ If APIs are unavailable:
 ## 📸 Screenshots
 
 ### **Main Interface**
-![Main Interface](https://via.placeholder.com/800x600/1f77b4/ffffff?text=Main+Interface)
+![Main Interface](<img width="1854" height="938" alt="image" src="https://github.com/user-attachments/assets/38a8594f-9f42-462e-95fe-a1ef3f422b84" />
+)
 
 ### **Analysis Results**
-![Analysis Results](https://via.placeholder.com/800x600/2ca02c/ffffff?text=Analysis+Results)
+![Analysis Results](<img width="1847" height="886" alt="image" src="https://github.com/user-attachments/assets/777270d6-9b82-4440-9830-9d22a02abe45" />
+)
+
 
 ### **API Visualizations**
-![API Results](https://via.placeholder.com/800x600/ff7f0e/ffffff?text=API+Visualizations)
+![API Results](<img width="1849" height="929" alt="image" src="https://github.com/user-attachments/assets/73af5700-682d-4f8d-8f34-8abf3f663efd" />
+)
 
 ### **Model Performance**
-![Model Charts](https://via.placeholder.com/800x600/9467bd/ffffff?text=Model+Performance)
+![Model Charts](<img width="1847" height="886" alt="image" src="https://github.com/user-attachments/assets/a86f87be-770e-4dd4-a85d-9d96a58907fa" />
+)
+
 
 ## 🤝 Contributing
 
@@ -410,9 +417,9 @@ copies or substantial portions of the Software.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/AdityaTiwari0890/malicious-url-detector/issues)
+- **Issues**: maitto: aktiwari089081@gmail.com
 - **Discussions**: [GitHub Discussions](https://github.com/AdityaTiwari0890/malicious-url-detector/discussions)
-- **Email**: aditya@example.com
+- **Email**: aktiwari089081@gmail.com
 
 ---
 
